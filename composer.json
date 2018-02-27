@@ -10,7 +10,7 @@
     "client"
   ],
   "version": "1.0.1",
-  "license": "GPL",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Edan Schwartz",
