@@ -1,3 +1,7 @@
+# v2.0.0
+
+* MOD: Add support for Guzzle 6, breaking compatibility with prior versions
+
 # v1.2.0
 
 * MOD: Support newer Guzzle versions
